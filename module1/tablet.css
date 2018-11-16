@@ -1,0 +1,29 @@
+@media screen and (max-width: 1023px) {
+
+.inner-box .btn {
+    width: 40%;
+}
+
+.col {
+    width: 50%;
+    padding: 20px 10px;
+}
+
+.search-form .btn {
+    width: 35%;
+}
+
+.item-wrap {
+    width: 50%;
+}
+
+.next {
+	right: 15px;
+}
+
+.prev {
+	left: 15px;
+}
+
+}
+

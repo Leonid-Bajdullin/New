@@ -1,0 +1,99 @@
+@media screen and (max-width: 767px) {
+
+.inner-box .btn {
+    width: 70%;
+    margin: 5px 0;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.head {
+    min-height: 500px;
+}
+
+p.intro {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.col {
+    width: 100%;
+    padding: 20px 10px;
+}
+
+.our-services img {
+    margin: 10px 0;
+}
+
+.top {
+    min-height: 70px;
+    margin-bottom: 10px;
+}
+
+.search-form {
+    padding: 10px 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+.email-input {
+    width: 300px;
+}
+
+.search-form .btn {
+    width: 200px;
+    padding: 5px 10px;
+}
+
+.our-works {
+    margin-bottom: 20px;
+}
+
+.container1 {
+    margin-bottom: 10px;
+}
+
+.item-wrap {
+    width: 100%;
+}
+
+.show-more {
+    margin-top: 10px;
+}
+
+.show-more .btn {
+    width: 200px;
+}
+
+.feedback {
+   width: 100%;
+   padding: 0 10px;
+}
+
+.feedback img {
+    margin: 10px;
+}
+
+.middle p {
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+    padding: 0;
+    margin: 10px 50px 50px 50px;
+}
+
+.next {
+    right: 15px;
+}
+
+.prev {
+	left: 15px;
+}
+
+}
